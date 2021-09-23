@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -13,7 +11,7 @@
    height="1052.3622047"
    id="svg14154"
    version="1.1"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="formal-circuit-library.svg">
   <defs
      id="defs14156">
@@ -188,9 +186,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="2108.7623"
-     inkscape:cy="-647.70358"
+     inkscape:zoom="0.1767767"
+     inkscape:cx="369.48628"
+     inkscape:cy="-660.62669"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -200,10 +198,10 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-to-guides="true"
-     inkscape:window-width="2560"
-     inkscape:window-height="1394"
-     inkscape:window-x="0"
-     inkscape:window-y="23"
+     inkscape:window-width="2558"
+     inkscape:window-height="1438"
+     inkscape:window-x="2560"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:snap-page="false"
      inkscape:snap-object-midpoints="true"
@@ -213,13 +211,14 @@
      inkscape:snap-intersection-paths="true"
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-midpoints="true"
-     inkscape:snap-text-baseline="true">
+     inkscape:snap-text-baseline="true"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid14162"
        empspacing="1"
        visible="true"
-       enabled="true"
+       enabled="false"
        snapvisiblegridlinesonly="true"
        spacingx="60"
        spacingy="60"
@@ -231,7 +230,7 @@
        id="grid14701"
        empspacing="1"
        visible="true"
-       enabled="false"
+       enabled="true"
        snapvisiblegridlinesonly="true"
        spacingx="30"
        spacingy="30"
@@ -257,7 +256,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -267,7 +266,7 @@
      id="layer1">
     <g
        id="g14748"
-       transform="translate(180,-1830)">
+       transform="translate(180,-1832.3622)">
       <rect
          y="212.36218"
          x="-420"
@@ -278,17 +277,17 @@
       <path
          inkscape:connector-curvature="0"
          id="path14707"
-         d="m -420,242.36218 -60,0"
+         d="m -420,242.36218 h -60"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path14709"
-         d="m -240,242.36218 60,0"
+         d="m -240,242.36218 h 60"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
        id="g15424"
-       transform="translate(540,-1710)">
+       transform="translate(540,-1712.3622)">
       <g
          id="g14748-9"
          transform="translate(0,-120)">
@@ -301,12 +300,12 @@
            y="212.36218" />
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m -420,242.36218 -60,0"
+           d="m -420,242.36218 h -60"
            id="path14707-8"
            inkscape:connector-curvature="0" />
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m -240,242.36218 60,0"
+           d="m -240,242.36218 h 60"
            id="path14709-8"
            inkscape:connector-curvature="0" />
       </g>
@@ -318,35 +317,35 @@
     </g>
     <g
        id="g15400"
-       transform="translate(660,-1440)">
+       transform="translate(660,-1442.3622)">
       <g
          id="g14753-1"
          transform="translate(0,210)">
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m -360,362.36218 0,120"
+           d="m -360,362.36218 v 120"
            id="path14716-8"
            inkscape:connector-curvature="0" />
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m -330,362.36218 0,120"
+           d="m -330,362.36218 v 120"
            id="path14718-1"
            inkscape:connector-curvature="0" />
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m -360,422.36218 -60,0"
+           d="m -360,422.36218 h -60"
            id="path14707-1-9"
            inkscape:connector-curvature="0" />
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m -270,422.36218 -60,0"
+           d="m -270,422.36218 h -60"
            id="path14707-0-9"
            inkscape:connector-curvature="0" />
       </g>
     </g>
     <g
        id="g15415"
-       transform="translate(420,-1230)">
+       transform="translate(420,-1232.3622)">
       <g
          id="g15407">
         <g
@@ -354,22 +353,22 @@
           <path
              inkscape:connector-curvature="0"
              id="path14716"
-             d="m -360,362.36218 0,120"
+             d="m -360,362.36218 v 120"
              style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <path
              inkscape:connector-curvature="0"
              id="path14718"
-             d="m -330,362.36218 0,120"
+             d="m -330,362.36218 v 120"
              style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <path
              inkscape:connector-curvature="0"
              id="path14707-1"
-             d="m -360,422.36218 -60,0"
+             d="m -360,422.36218 h -60"
              style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <path
              inkscape:connector-curvature="0"
              id="path14707-0"
-             d="m -270,422.36218 -60,0"
+             d="m -270,422.36218 h -60"
              style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         </g>
         <path
@@ -381,7 +380,7 @@
     </g>
     <g
        id="g6046"
-       transform="translate(1800,-840)">
+       transform="translate(1800,-842.36218)">
       <g
          transform="translate(-1020,630)"
          id="g15487">
@@ -411,19 +410,19 @@
            sodipodi:nodetypes="cc" />
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m -450,122.36218 -30,0"
+           d="m -450,122.36218 h -30"
            id="path15483"
            inkscape:connector-curvature="0" />
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m -210,122.36218 30,0"
+           d="m -210,122.36218 h 30"
            id="path15485"
            inkscape:connector-curvature="0" />
       </g>
     </g>
     <g
        id="g16473"
-       transform="translate(780,180)">
+       transform="translate(780,177.63782)">
       <g
          id="g16463">
         <g
@@ -456,12 +455,12 @@
           <path
              inkscape:connector-curvature="0"
              id="path15483-8"
-             d="m -450,122.36218 -30,0"
+             d="m -450,122.36218 h -30"
              style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <path
              inkscape:connector-curvature="0"
              id="path15485-2"
-             d="m -210,122.36218 30,0"
+             d="m -210,122.36218 h 30"
              style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         </g>
         <path
@@ -473,7 +472,7 @@
     </g>
     <g
        id="g16516"
-       transform="translate(2940,1380)">
+       transform="translate(2940,1377.6378)">
       <rect
          y="242.36218"
          x="-840"
@@ -484,27 +483,27 @@
       <path
          inkscape:connector-curvature="0"
          id="path14707-7"
-         d="m -840,272.36218 -60,0"
+         d="m -840,272.36218 h -60"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path14709-1"
-         d="m -660,272.36218 60,0"
+         d="m -660,272.36218 h 60"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path16511"
-         d="m -840,272.36218 180,0"
+         d="m -840,272.36218 h 180"
          style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
        id="g5723"
-       transform="translate(1800,-660)">
+       transform="translate(1800,-662.36218)">
       <g
          transform="translate(-3900,-660)"
          id="g16606">
         <g
-           transform="matrix(0,-1,1,0,117.63782,-87.637817)"
+           transform="rotate(-90,15.000002,-102.63782)"
            id="g15487-2">
           <path
              sodipodi:nodetypes="cc"
@@ -533,12 +532,12 @@
           <path
              inkscape:connector-curvature="0"
              id="path15483-5"
-             d="m -450,122.36218 -30,0"
+             d="m -450,122.36218 h -30"
              style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <path
              inkscape:connector-curvature="0"
              id="path15485-21"
-             d="m -210,122.36218 30,0"
+             d="m -210,122.36218 h 30"
              style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         </g>
         <g
@@ -571,39 +570,39 @@
           <path
              inkscape:connector-curvature="0"
              id="path15483-5-6"
-             d="m -450,122.36218 -30,0"
+             d="m -450,122.36218 h -30"
              style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <path
              inkscape:connector-curvature="0"
              id="path15485-21-7"
-             d="m -210,122.36218 30,0"
+             d="m -210,122.36218 h 30"
              style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         </g>
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 60,92.362183 -60,0"
+           d="M 60,92.362183 H 0"
            id="path16598"
            inkscape:connector-curvature="0" />
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 60,392.36218 -60,0"
+           d="M 60,392.36218 H 0"
            id="path16600"
            inkscape:connector-curvature="0" />
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 300,392.36218 -60,0"
+           d="M 300,392.36218 H 240"
            id="path16602"
            inkscape:connector-curvature="0" />
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 240,92.362183 60,0"
+           d="m 240,92.362183 h 60"
            id="path16604"
            inkscape:connector-curvature="0" />
       </g>
     </g>
     <g
        id="g5673"
-       transform="translate(2220,-1050)">
+       transform="translate(2220,-1052.3622)">
       <g
          transform="translate(-3900,-660)"
          id="g16704">
@@ -612,7 +611,7 @@
            id="g16606-6">
           <g
              id="g15487-2-5"
-             transform="matrix(0,-1,1,0,117.63782,-87.637817)">
+             transform="rotate(-90,15.000002,-102.63782)">
             <path
                style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
                d="m -450,122.36218 c 23.43268,-89.390874 42.00914,-69.333284 60,0"
@@ -639,12 +638,12 @@
                sodipodi:nodetypes="cc" />
             <path
                style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               d="m -450,122.36218 -30,0"
+               d="m -450,122.36218 h -30"
                id="path15483-5-2"
                inkscape:connector-curvature="0" />
             <path
                style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               d="m -210,122.36218 30,0"
+               d="m -210,122.36218 h 30"
                id="path15485-21-4"
                inkscape:connector-curvature="0" />
           </g>
@@ -677,34 +676,34 @@
                sodipodi:nodetypes="cc" />
             <path
                style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               d="m -450,122.36218 -30,0"
+               d="m -450,122.36218 h -30"
                id="path15483-5-6-7"
                inkscape:connector-curvature="0" />
             <path
                style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               d="m -210,122.36218 30,0"
+               d="m -210,122.36218 h 30"
                id="path15485-21-7-6"
                inkscape:connector-curvature="0" />
           </g>
           <path
              inkscape:connector-curvature="0"
              id="path16598-9"
-             d="m 60,92.362183 -60,0"
+             d="M 60,92.362183 H 0"
              style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <path
              inkscape:connector-curvature="0"
              id="path16600-0"
-             d="m 60,392.36218 -60,0"
+             d="M 60,392.36218 H 0"
              style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <path
              inkscape:connector-curvature="0"
              id="path16602-8"
-             d="m 300,392.36218 -60,0"
+             d="M 300,392.36218 H 240"
              style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <path
              inkscape:connector-curvature="0"
              id="path16604-3"
-             d="m 240,92.362183 60,0"
+             d="m 240,92.362183 h 60"
              style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         </g>
         <circle
@@ -723,7 +722,7 @@
     </g>
     <g
        id="g5621"
-       transform="translate(2640,-1440)">
+       transform="translate(2640,-1442.3622)">
       <g
          id="g16704-4"
          transform="translate(-3900,-270)">
@@ -732,7 +731,7 @@
            id="g16606-6-0">
           <g
              id="g15487-2-5-0"
-             transform="matrix(0,-1,1,0,117.63782,-87.637817)">
+             transform="rotate(-90,15.000002,-102.63782)">
             <path
                style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
                d="m -450,122.36218 c 23.43268,-89.390874 42.00914,-69.333284 60,0"
@@ -759,12 +758,12 @@
                sodipodi:nodetypes="cc" />
             <path
                style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               d="m -450,122.36218 -30,0"
+               d="m -450,122.36218 h -30"
                id="path15483-5-2-8"
                inkscape:connector-curvature="0" />
             <path
                style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               d="m -210,122.36218 30,0"
+               d="m -210,122.36218 h 30"
                id="path15485-21-4-4"
                inkscape:connector-curvature="0" />
           </g>
@@ -797,34 +796,34 @@
                sodipodi:nodetypes="cc" />
             <path
                style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               d="m -450,122.36218 -30,0"
+               d="m -450,122.36218 h -30"
                id="path15483-5-6-7-9"
                inkscape:connector-curvature="0" />
             <path
                style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               d="m -210,122.36218 30,0"
+               d="m -210,122.36218 h 30"
                id="path15485-21-7-6-4"
                inkscape:connector-curvature="0" />
           </g>
           <path
              inkscape:connector-curvature="0"
              id="path16598-9-6"
-             d="m 60,92.362183 -60,0"
+             d="M 60,92.362183 H 0"
              style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <path
              inkscape:connector-curvature="0"
              id="path16600-0-5"
-             d="m 60,392.36218 -60,0"
+             d="M 60,392.36218 H 0"
              style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <path
              inkscape:connector-curvature="0"
              id="path16602-8-9"
-             d="m 300,392.36218 -60,0"
+             d="M 300,392.36218 H 240"
              style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <path
              inkscape:connector-curvature="0"
              id="path16604-3-0"
-             d="m 240,92.362183 60,0"
+             d="m 240,92.362183 h 60"
              style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         </g>
         <circle
@@ -843,21 +842,21 @@
       <path
          inkscape:connector-curvature="0"
          id="path16808"
-         d="m -3750,182.36218 0,360.00002"
+         d="M -3750,182.36218 V 542.3622"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
        id="g5744"
-       transform="translate(1350,-1080)">
+       transform="translate(1350,-1082.3622)">
       <g
          transform="translate(-3900,-660)"
          id="g17074">
         <g
-           transform="translate(450,-3.8281246e-7)"
+           transform="translate(450)"
            id="g16606-2">
           <g
              id="g15487-2-9"
-             transform="matrix(0,-1,1,0,117.63782,-87.637817)">
+             transform="rotate(-90,15.000002,-102.63782)">
             <path
                style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
                d="m -450,122.36218 c 23.43268,-89.390874 42.00914,-69.333284 60,0"
@@ -884,12 +883,12 @@
                sodipodi:nodetypes="cc" />
             <path
                style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               d="m -450,122.36218 -30,0"
+               d="m -450,122.36218 h -30"
                id="path15483-5-4"
                inkscape:connector-curvature="0" />
             <path
                style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               d="m -210,122.36218 30,0"
+               d="m -210,122.36218 h 30"
                id="path15485-21-6"
                inkscape:connector-curvature="0" />
           </g>
@@ -922,57 +921,57 @@
                sodipodi:nodetypes="cc" />
             <path
                style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               d="m -450,122.36218 -30,0"
+               d="m -450,122.36218 h -30"
                id="path15483-5-6-9"
                inkscape:connector-curvature="0" />
             <path
                style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               d="m -210,122.36218 30,0"
+               d="m -210,122.36218 h 30"
                id="path15485-21-7-67"
                inkscape:connector-curvature="0" />
           </g>
           <path
              inkscape:connector-curvature="0"
              id="path16598-5"
-             d="m 60,92.362183 -60,0"
+             d="M 60,92.362183 H 0"
              style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <path
              inkscape:connector-curvature="0"
              id="path16600-2"
-             d="m 60,392.36218 -60,0"
+             d="M 60,392.36218 H 0"
              style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <path
              inkscape:connector-curvature="0"
              id="path16602-2"
-             d="m 300,392.36218 -60,0"
+             d="M 300,392.36218 H 240"
              style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <path
              inkscape:connector-curvature="0"
              id="path16604-8"
-             d="m 240,92.362183 60,0"
+             d="m 240,92.362183 h 60"
              style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         </g>
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 690,242.36218 60,0"
+           d="m 690,242.36218 h 60"
            id="path17017"
            inkscape:connector-curvature="0" />
       </g>
     </g>
     <g
        id="g5697"
-       transform="translate(1770,-1470)">
+       transform="translate(1770,-1472.3622)">
       <g
          transform="translate(-3900,-660)"
          id="g17049">
         <g
-           transform="translate(450,-3.8281246e-7)"
+           transform="translate(450)"
            id="g16704-3">
           <g
              id="g16606-6-2"
              transform="translate(0,390)">
             <g
-               transform="matrix(0,-1,1,0,117.63782,-87.637817)"
+               transform="rotate(-90,15.000002,-102.63782)"
                id="g15487-2-5-4">
               <path
                  sodipodi:nodetypes="cc"
@@ -1001,12 +1000,12 @@
               <path
                  inkscape:connector-curvature="0"
                  id="path15483-5-2-9"
-                 d="m -450,122.36218 -30,0"
+                 d="m -450,122.36218 h -30"
                  style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
               <path
                  inkscape:connector-curvature="0"
                  id="path15485-21-4-0"
-                 d="m -210,122.36218 30,0"
+                 d="m -210,122.36218 h 30"
                  style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
             </g>
             <g
@@ -1039,32 +1038,32 @@
               <path
                  inkscape:connector-curvature="0"
                  id="path15483-5-6-7-4"
-                 d="m -450,122.36218 -30,0"
+                 d="m -450,122.36218 h -30"
                  style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
               <path
                  inkscape:connector-curvature="0"
                  id="path15485-21-7-6-1"
-                 d="m -210,122.36218 30,0"
+                 d="m -210,122.36218 h 30"
                  style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
             </g>
             <path
                style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               d="m 60,92.362183 -60,0"
+               d="M 60,92.362183 H 0"
                id="path16598-9-0"
                inkscape:connector-curvature="0" />
             <path
                style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               d="m 60,392.36218 -60,0"
+               d="M 60,392.36218 H 0"
                id="path16600-0-0"
                inkscape:connector-curvature="0" />
             <path
                style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               d="m 300,392.36218 -60,0"
+               d="M 300,392.36218 H 240"
                id="path16602-8-1"
                inkscape:connector-curvature="0" />
             <path
                style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               d="m 240,92.362183 60,0"
+               d="m 240,92.362183 h 60"
                id="path16604-3-7"
                inkscape:connector-curvature="0" />
           </g>
@@ -1083,14 +1082,14 @@
         </g>
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 690,632.36218 60,0"
+           d="m 690,632.36218 h 60"
            id="path17019"
            inkscape:connector-curvature="0" />
       </g>
     </g>
     <g
        id="g5646"
-       transform="translate(2190,-1860)">
+       transform="translate(2190,-1862.3622)">
       <g
          transform="translate(-3900,-660)"
          id="g17023">
@@ -1101,7 +1100,7 @@
              id="g16606-6-0-0"
              transform="translate(0,390)">
             <g
-               transform="matrix(0,-1,1,0,117.63782,-87.637817)"
+               transform="rotate(-90,15.000002,-102.63782)"
                id="g15487-2-5-0-0">
               <path
                  sodipodi:nodetypes="cc"
@@ -1130,12 +1129,12 @@
               <path
                  inkscape:connector-curvature="0"
                  id="path15483-5-2-8-1"
-                 d="m -450,122.36218 -30,0"
+                 d="m -450,122.36218 h -30"
                  style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
               <path
                  inkscape:connector-curvature="0"
                  id="path15485-21-4-4-6"
-                 d="m -210,122.36218 30,0"
+                 d="m -210,122.36218 h 30"
                  style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
             </g>
             <g
@@ -1168,32 +1167,32 @@
               <path
                  inkscape:connector-curvature="0"
                  id="path15483-5-6-7-9-8"
-                 d="m -450,122.36218 -30,0"
+                 d="m -450,122.36218 h -30"
                  style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
               <path
                  inkscape:connector-curvature="0"
                  id="path15485-21-7-6-4-5"
-                 d="m -210,122.36218 30,0"
+                 d="m -210,122.36218 h 30"
                  style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
             </g>
             <path
                style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               d="m 60,92.362183 -60,0"
+               d="M 60,92.362183 H 0"
                id="path16598-9-6-3"
                inkscape:connector-curvature="0" />
             <path
                style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               d="m 60,392.36218 -60,0"
+               d="M 60,392.36218 H 0"
                id="path16600-0-5-0"
                inkscape:connector-curvature="0" />
             <path
                style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               d="m 300,392.36218 -60,0"
+               d="M 300,392.36218 H 240"
                id="path16602-8-9-0"
                inkscape:connector-curvature="0" />
             <path
                style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               d="m 240,92.362183 60,0"
+               d="m 240,92.362183 h 60"
                id="path16604-3-0-2"
                inkscape:connector-curvature="0" />
           </g>
@@ -1212,19 +1211,19 @@
         </g>
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 600,842.3622 0,360"
+           d="m 600,842.3622 v 360"
            id="path16808-8"
            inkscape:connector-curvature="0" />
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 690,1022.3622 60,0"
+           d="m 690,1022.3622 h 60"
            id="path17021"
            inkscape:connector-curvature="0" />
       </g>
     </g>
     <g
        id="g17104"
-       transform="translate(-600,-1200)">
+       transform="translate(-600,-1202.3622)">
       <path
          sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
@@ -1234,22 +1233,22 @@
       <path
          inkscape:connector-curvature="0"
          id="path17098"
-         d="m -360,812.36218 -60,0"
+         d="m -360,812.36218 h -60"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path17100"
-         d="m -270,812.36218 60,0"
+         d="m -270,812.36218 h 60"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path17102"
-         d="m -270,752.36218 0,120"
+         d="m -270,752.36218 v 120"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
        id="g18399"
-       transform="translate(-1680,-1470)">
+       transform="translate(-1680,-1472.3622)">
       <path
          sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
@@ -1259,17 +1258,17 @@
       <path
          inkscape:connector-curvature="0"
          id="path17098-9"
-         d="m -360,1082.3622 -60,0"
+         d="m -360,1082.3622 h -60"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path17100-7"
-         d="m -270,1082.3622 60,0"
+         d="m -270,1082.3622 h 60"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path17102-9"
-         d="m -270,1022.3622 0,120"
+         d="m -270,1022.3622 v 120"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
@@ -1284,7 +1283,7 @@
     </g>
     <g
        id="g18421"
-       transform="translate(-1320,-1710)">
+       transform="translate(-1320,-1712.3622)">
       <path
          sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
@@ -1294,17 +1293,17 @@
       <path
          inkscape:connector-curvature="0"
          id="path17098-9-0"
-         d="m -360,1322.3622 -60,0"
+         d="m -360,1322.3622 h -60"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path17100-7-7"
-         d="m -270,1322.3622 60,0"
+         d="m -270,1322.3622 h 60"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path17102-9-9"
-         d="m -270,1262.3622 0,120"
+         d="m -270,1262.3622 v 120"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
@@ -1319,7 +1318,7 @@
     </g>
     <g
        id="g18494"
-       transform="translate(-960,-1890)">
+       transform="translate(-960,-1892.3622)">
       <g
          id="g17104-7"
          transform="translate(0,690)">
@@ -1331,29 +1330,29 @@
            sodipodi:nodetypes="cccc" />
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m -360,812.36218 -60,0"
+           d="m -360,812.36218 h -60"
            id="path17098-6"
            inkscape:connector-curvature="0" />
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m -270,812.36218 60,0"
+           d="m -270,812.36218 h 60"
            id="path17100-9"
            inkscape:connector-curvature="0" />
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m -270,752.36218 0,120"
+           d="m -270,752.36218 v 120"
            id="path17102-4"
            inkscape:connector-curvature="0" />
       </g>
       <path
          inkscape:connector-curvature="0"
          id="path18459"
-         d="m -270,1562.3622 -30,0"
+         d="m -270,1562.3622 h -30"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
        id="g18513"
-       transform="translate(-1680,-1890)">
+       transform="translate(-1680,-1892.3622)">
       <g
          id="g18504">
         <g
@@ -1368,34 +1367,34 @@
           <path
              inkscape:connector-curvature="0"
              id="path17098-6-9"
-             d="m -360,812.36218 -60,0"
+             d="m -360,812.36218 h -60"
              style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <path
              inkscape:connector-curvature="0"
              id="path17100-9-6"
-             d="m -270,812.36218 60,0"
+             d="m -270,812.36218 h 60"
              style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <path
              inkscape:connector-curvature="0"
              id="path17102-4-9"
-             d="m -270,752.36218 0,120"
+             d="m -270,752.36218 v 120"
              style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         </g>
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m -270,1742.3622 -30,0"
+           d="m -270,1742.3622 h -30"
            id="path18459-9"
            inkscape:connector-curvature="0" />
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m -270,1622.3622 -30,0"
+           d="m -270,1622.3622 h -30"
            id="path18502"
            inkscape:connector-curvature="0" />
       </g>
     </g>
     <g
        id="g18590"
-       transform="translate(-1320,-2070)">
+       transform="translate(-1320,-2072.3622)">
       <path
          sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
@@ -1405,42 +1404,42 @@
       <path
          inkscape:connector-curvature="0"
          id="path17098-6-9-0"
-         d="m -360,1862.3622 -60,0"
+         d="m -360,1862.3622 h -60"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path17100-9-6-6"
-         d="m -270,1862.3622 60,0"
+         d="m -270,1862.3622 h 60"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path17102-4-9-9"
-         d="m -270,1802.3622 0,120"
+         d="m -270,1802.3622 v 120"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path18459-9-7"
-         d="m -270,1922.3622 -30,0"
+         d="m -270,1922.3622 h -30"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path18502-7"
-         d="m -240,1802.3622 -30,0"
+         d="m -240,1802.3622 h -30"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path18586"
-         d="m -300,1922.3622 0,-15"
+         d="m -300,1922.3622 v -15"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path18588"
-         d="m -240,1802.3622 0,15"
+         d="m -240,1802.3622 v 15"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
        id="g18610"
-       transform="translate(2520,1530)">
+       transform="translate(2520,1527.6378)">
       <path
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
@@ -1450,48 +1449,48 @@
       <path
          inkscape:connector-curvature="0"
          id="path18602"
-         d="m -780,92.362183 0,59.999997"
+         d="M -780,92.362183 V 152.36218"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path18604"
-         d="m -660,92.362183 0,59.999997"
+         d="M -660,92.362183 V 152.36218"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path18606"
-         d="m -660,122.36218 60,0"
+         d="m -660,122.36218 h 60"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path18608"
-         d="m -780,122.36218 -60,0"
+         d="m -780,122.36218 h -60"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:cmr10;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="-4080"
-       y="1712.3622"
+       y="1710"
        id="text18617"><tspan
          sodipodi:role="line"
          id="tspan18619"
          x="-4080"
-         y="1712.3622"
+         y="1710"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:56px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold'">Line widths: 15px for normal lines. 8px for thinner ones.</tspan><tspan
          sodipodi:role="line"
          x="-4080"
-         y="1782.3622"
+         y="1780"
          id="tspan18621"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:56px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold'">Grids: 60x60px, 30x30px, 15x15px</tspan><tspan
          sodipodi:role="line"
          x="-4080"
-         y="1852.3622"
+         y="1850"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:56px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold'"
          id="tspan18623">Font: FreeMono (this text is 56pt, bold)</tspan></text>
     <g
        id="g19883"
-       transform="translate(-1350,-600.00002)">
+       transform="translate(-1350,-602.3622)">
       <path
          inkscape:connector-curvature="0"
          id="path18639"
@@ -1503,7 +1502,7 @@
          d="m -30,1322.3622 120,60"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <g
-         transform="matrix(0.9961947,-0.08715575,0.08715575,0.9961947,-131.96956,-23.95066)"
+         transform="rotate(-5.0000004,-340.26486,1499.3245)"
          id="g19823">
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -1512,7 +1511,7 @@
            inkscape:connector-curvature="0" />
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 60,1397.3622 -30,0"
+           d="M 60,1397.3622 H 30"
            id="path19819"
            inkscape:connector-curvature="0" />
         <path
@@ -1524,80 +1523,84 @@
       <path
          inkscape:connector-curvature="0"
          id="path19830"
-         d="m -30,1202.3622 0,180"
+         d="m -30,1202.3622 v 180"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path19832"
-         d="m -30,1292.3622 -60,0"
+         d="M -30,1292.3622 H -90"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path19834"
-         d="m 90,1202.3622 0,-30"
+         d="m 90,1202.3622 v -30"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path19836"
-         d="m 90,1382.3622 0,30"
+         d="m 90,1382.3622 v 30"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
        id="g19925"
        transform="translate(-2040,-600.00002)">
-      <path
-         inkscape:connector-curvature="0"
-         id="path18639-4"
-         d="m 240,1262.3622 120,-60"
-         style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path19815-1"
-         d="m 240,1322.3622 120,60"
-         style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <g
-         transform="translate(-6.0132459,-3.6602366)"
-         id="g19920">
+         id="g1670"
+         transform="translate(0,-2.36218)">
         <path
-           style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="M 333.52851,1351.4461 300,1352.3622"
-           id="path19817-1"
-           inkscape:connector-curvature="0" />
+           inkscape:connector-curvature="0"
+           id="path18639-4"
+           d="m 240,1262.3622 120,-60"
+           style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <path
-           style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 333.52851,1351.4461 -12.67855,27.1892"
-           id="path19819-5"
-           inkscape:connector-curvature="0" />
+           inkscape:connector-curvature="0"
+           id="path19815-1"
+           d="m 240,1322.3622 120,60"
+           style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <g
+           transform="translate(-6.0132459,-3.6602366)"
+           id="g19920">
+          <path
+             style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="M 333.52851,1351.4461 300,1352.3622"
+             id="path19817-1"
+             inkscape:connector-curvature="0" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 333.52851,1351.4461 -12.67855,27.1892"
+             id="path19819-5"
+             inkscape:connector-curvature="0" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m 300,1352.3622 20.84996,26.2731"
+             id="path19821-2"
+             inkscape:connector-curvature="0" />
+        </g>
         <path
-           style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 300,1352.3622 20.84996,26.2731"
-           id="path19821-2"
-           inkscape:connector-curvature="0" />
+           inkscape:connector-curvature="0"
+           id="path19830-3"
+           d="m 240,1202.3622 v 180"
+           style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path19832-2"
+           d="M 240,1292.3622 H 180"
+           style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path19834-8"
+           d="m 360,1202.3622 v -30"
+           style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path19836-8"
+           d="m 360,1382.3622 v 30"
+           style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       </g>
-      <path
-         inkscape:connector-curvature="0"
-         id="path19830-3"
-         d="m 240,1202.3622 0,180"
-         style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path19832-2"
-         d="m 240,1292.3622 -60,0"
-         style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path19834-8"
-         d="m 360,1202.3622 0,-30"
-         style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path19836-8"
-         d="m 360,1382.3622 0,30"
-         style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
        id="g20003"
-       transform="translate(-240,-660.00002)">
+       transform="translate(-240,-662.3622)">
       <path
          sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
@@ -1608,13 +1611,13 @@
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path17098-64"
-         d="m 135,1712.3622 -75,0"
+         d="M 135,1712.3622 H 60"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path17100-2"
-         d="m 225,1712.3622 75,0"
+         d="m 225,1712.3622 h 75"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="cccc"
@@ -1626,23 +1629,23 @@
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path19997"
-         d="m 225,1832.3622 0,-240"
+         d="m 225,1832.3622 v -240"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path19999"
-         d="m 135,1832.3622 0,-240"
+         d="m 135,1832.3622 v -240"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path20001"
-         d="m 225,1757.3622 60,30 0,75"
+         d="m 225,1757.3622 60,30 v 75"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
        id="g20048"
-       transform="translate(630,-780)">
+       transform="translate(630,-782.3622)">
       <path
          sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
@@ -1652,27 +1655,27 @@
       <path
          inkscape:connector-curvature="0"
          id="path17098-0"
-         d="m -390,1832.3622 -60,0"
+         d="m -390,1832.3622 h -60"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path17100-6"
-         d="m -300,1832.3622 60,0"
+         d="m -300,1832.3622 h 60"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path17102-2"
-         d="m -300,1772.3622 0,120"
+         d="m -300,1772.3622 v 120"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path20042"
-         d="m -300,1832.3622 60,60 0,60"
+         d="m -300,1832.3622 60,60 v 60"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
        id="g20091"
-       transform="translate(-930,-2280)">
+       transform="translate(-930,-2282.3622)">
       <path
          sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
@@ -1682,40 +1685,40 @@
       <path
          inkscape:connector-curvature="0"
          id="path17098-1"
-         d="m -390,2072.3622 -60,0"
+         d="m -390,2072.3622 h -60"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path17100-91"
-         d="m -270,2072.3622 30,0"
+         d="m -270,2072.3622 h 30"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path17102-22"
-         d="m -300,2012.3622 0,120"
+         d="m -300,2012.3622 v 120"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path20089"
-         d="m -270,2012.3622 0,120"
+         d="m -270,2012.3622 v 120"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
        id="g7651"
-       transform="translate(540,-2100)">
+       transform="translate(540,-2102.3622)">
       <g
          transform="translate(600,299.99998)"
          id="g20118">
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 600,1352.3622 150,0"
+           d="M 600,1352.3622 H 750"
            id="path20098"
            inkscape:connector-curvature="0" />
         <path
            sodipodi:nodetypes="cc"
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 900,1352.3622 180,0"
+           d="m 900,1352.3622 h 180"
            id="path20100"
            inkscape:connector-curvature="0" />
         <path
@@ -1727,30 +1730,30 @@
     </g>
     <g
        id="g7657"
-       transform="translate(540,-2040)">
+       transform="translate(540,-2042.3622)">
       <g
          transform="translate(600,179.99998)"
          id="g20123">
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 600,1652.3622 150,0"
+           d="M 600,1652.3622 H 750"
            id="path20104"
            inkscape:connector-curvature="0" />
         <path
            sodipodi:nodetypes="cc"
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 900,1562.3622 180,0"
+           d="m 900,1562.3622 h 180"
            id="path20106"
            inkscape:connector-curvature="0" />
         <path
            sodipodi:nodetypes="cc"
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 900,1742.3622 180,0"
+           d="m 900,1742.3622 h 180"
            id="path20108"
            inkscape:connector-curvature="0" />
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 900,1562.3622 0,45"
+           d="m 900,1562.3622 v 45"
            id="path20112"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cc" />
@@ -1763,7 +1766,7 @@
     </g>
     <g
        id="g7641"
-       transform="translate(540,-2100)">
+       transform="translate(540,-2102.3622)">
       <g
          transform="translate(600,240)"
          id="g20163">
@@ -1773,13 +1776,13 @@
           <path
              inkscape:connector-curvature="0"
              id="path20098-5"
-             d="m 600,1352.3622 150,0"
+             d="M 600,1352.3622 H 750"
              style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <path
              sodipodi:nodetypes="cc"
              inkscape:connector-curvature="0"
              id="path20100-9"
-             d="m 900,1352.3622 180,0"
+             d="m 900,1352.3622 h 180"
              style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <path
              inkscape:connector-curvature="0"
@@ -1789,29 +1792,29 @@
         </g>
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 825,1202.3622 0,-120"
+           d="m 825,1202.3622 v -120"
            id="path20157"
            inkscape:connector-curvature="0" />
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 780,1082.3622 90,0"
+           d="m 780,1082.3622 h 90"
            id="path20159"
            inkscape:connector-curvature="0" />
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 825,1112.3622 -15,30 30,0 -15,-30"
+           d="m 825,1112.3622 -15,30 h 30 l -15,-30"
            id="path20161"
            inkscape:connector-curvature="0" />
       </g>
     </g>
     <g
        id="g23188"
-       transform="translate(3693.884,1499.2925)">
+       transform="translate(3693.884,1496.9303)">
       <g
          id="g20205">
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 111.7759,-245.1995 418.7086,0 c 47.7859,14.7256 35.4348,71.0358 0,76.4074 l -418.7086,0 c -37.2628,-17.2347 -31.0215,-64.6301 0,-76.4074 z"
+           d="m 111.7759,-245.1995 h 418.7086 c 47.7859,14.7256 35.4348,71.0358 0,76.4074 H 111.7759 c -37.2628,-17.2347 -31.0215,-64.6301 0,-76.4074 z"
            id="rect6510"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="ccccc" />
@@ -1825,104 +1828,104 @@
     </g>
     <g
        id="g20877"
-       transform="translate(-2280,389.99998)">
+       transform="translate(-2280,387.6378)">
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path20837"
-         d="m 570,1217.3622 0,150"
+         d="m 570,1217.3622 v 150"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="ccc"
          inkscape:connector-curvature="0"
          id="path20839"
-         d="m 570,1262.3622 90,0 0,-90"
+         d="m 570,1262.3622 h 90 v -90"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="ccc"
          inkscape:connector-curvature="0"
          id="path20841"
-         d="m 570,1322.3622 90,0 0,90"
+         d="m 570,1322.3622 h 90 v 90"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path20843"
-         d="m 480,1322.3622 90,0"
+         d="m 480,1322.3622 h 90"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path20845"
-         d="m 530.4792,1307.3622 30,15 -30,15 0,-30"
+         d="m 530.4792,1307.3622 30,15 -30,15 v -30"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
        id="g20884"
-       transform="translate(-2520,119.99998)">
+       transform="translate(-2520,117.6378)">
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path20837-2"
-         d="m 570,1487.3622 0,150"
+         d="m 570,1487.3622 v 150"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="ccc"
          inkscape:connector-curvature="0"
          id="path20839-3"
-         d="m 570,1532.3622 90,0 0,-90"
+         d="m 570,1532.3622 h 90 v -90"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="ccc"
          inkscape:connector-curvature="0"
          id="path20841-3"
-         d="m 570,1592.3622 90,0 0,90"
+         d="m 570,1592.3622 h 90 v 90"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path20843-5"
-         d="m 480,1592.3622 90,0"
+         d="m 480,1592.3622 h 90"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path20845-1"
-         d="m 540,1577.3622 -30,15 30,15 0,-30"
+         d="m 540,1577.3622 -30,15 30,15 v -30"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
        id="g20909"
-       transform="translate(-2220,239.99998)">
+       transform="translate(-2220,237.6378)">
       <path
          inkscape:connector-curvature="0"
          id="path20891"
-         d="m 825,1217.3622 0,30"
+         d="m 825,1217.3622 v 30"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path20893"
-         d="m 825,1277.3622 0,30"
+         d="m 825,1277.3622 v 30"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path20895"
-         d="m 825,1337.3622 0,30"
+         d="m 825,1337.3622 v 30"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="ccc"
          inkscape:connector-curvature="0"
          id="path20897"
-         d="m 795,1232.3622 0,120 -75,0"
+         d="m 795,1232.3622 v 120 h -75"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="ccc"
          inkscape:connector-curvature="0"
          id="path20899"
-         d="m 825,1292.3622 75,0 0,120"
+         d="m 825,1292.3622 h 75 v 120"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path20901"
-         d="m 825,1352.3622 75,0"
+         d="m 825,1352.3622 h 75"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
@@ -1939,35 +1942,35 @@
       <path
          inkscape:connector-curvature="0"
          id="path20907"
-         d="m 825,1232.3622 75,0 0,-60"
+         d="m 825,1232.3622 h 75 v -60"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
        id="g20974"
-       transform="translate(-2160,239.99998)">
+       transform="translate(-2160,237.6378)">
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path20895-5"
-         d="m 1065,1217.3622 0,150"
+         d="m 1065,1217.3622 v 150"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="ccc"
          inkscape:connector-curvature="0"
          id="path20897-1"
-         d="m 1035,1232.3622 0,120 -75,0"
+         d="m 1035,1232.3622 v 120 h -75"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="ccc"
          inkscape:connector-curvature="0"
          id="path20899-5"
-         d="m 1065,1292.3622 75,0 0,120"
+         d="m 1065,1292.3622 h 75 v 120"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path20901-7"
-         d="m 1065,1352.3622 75,0"
+         d="m 1065,1352.3622 h 75"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
@@ -1984,44 +1987,44 @@
       <path
          inkscape:connector-curvature="0"
          id="path20907-4"
-         d="m 1065,1232.3622 75,0 0,-60"
+         d="m 1065,1232.3622 h 75 v -60"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
        id="g21079"
-       transform="translate(-2220,239.99998)">
+       transform="translate(-2220,237.6378)">
       <path
          inkscape:connector-curvature="0"
          id="path20891-8"
-         d="m 825,1517.3622 0,30"
+         d="m 825,1517.3622 v 30"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path20893-6"
-         d="m 825,1577.3622 0,30"
+         d="m 825,1577.3622 v 30"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path20895-2"
-         d="m 825,1637.3622 0,30"
+         d="m 825,1637.3622 v 30"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="ccc"
          inkscape:connector-curvature="0"
          id="path20897-2"
-         d="m 795,1532.3622 0,120 -75,0"
+         d="m 795,1532.3622 v 120 h -75"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="ccc"
          inkscape:connector-curvature="0"
          id="path20899-7"
-         d="m 825,1592.3622 75,0 0,120"
+         d="m 825,1592.3622 h 75 v 120"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path20901-6"
-         d="m 825,1652.3622 75,0"
+         d="m 825,1652.3622 h 75"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
@@ -2038,35 +2041,35 @@
       <path
          inkscape:connector-curvature="0"
          id="path20907-9"
-         d="m 825,1532.3622 75,0 0,-60"
+         d="m 825,1532.3622 h 75 v -60"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
        id="g21090"
-       transform="translate(-2160,239.99998)">
+       transform="translate(-2160,237.6378)">
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path20895-2-5"
-         d="m 1065,1517.3622 0,150"
+         d="m 1065,1517.3622 v 150"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="ccc"
          inkscape:connector-curvature="0"
          id="path20897-2-4"
-         d="m 1035,1532.3622 0,120 -75,0"
+         d="m 1035,1532.3622 v 120 h -75"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="ccc"
          inkscape:connector-curvature="0"
          id="path20899-7-0"
-         d="m 1065,1592.3622 75,0 0,120"
+         d="m 1065,1592.3622 h 75 v 120"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path20901-6-3"
-         d="m 1065,1652.3622 75,0"
+         d="m 1065,1652.3622 h 75"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
@@ -2083,16 +2086,16 @@
       <path
          inkscape:connector-curvature="0"
          id="path20907-9-7"
-         d="m 1065,1532.3622 75,0 0,-60"
+         d="m 1065,1532.3622 h 75 v -60"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
        id="g5587"
-       transform="translate(900,-270)">
+       transform="translate(900,-272.36218)">
       <path
          inkscape:connector-curvature="0"
          id="path21162-4"
-         d="m 3570,572.36218 240,0 0,300 -240,0"
+         d="m 3570,572.36218 h 240 v 300 h -240"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
@@ -2129,24 +2132,24 @@
       <path
          inkscape:connector-curvature="0"
          id="path21318-1"
-         d="m 3480,632.36218 -240,0"
+         d="M 3480,632.36218 H 3240"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path21320-7"
-         d="m 3480,812.36218 -240,0"
+         d="M 3480,812.36218 H 3240"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path21322-3"
-         d="m 3810,692.36218 150,0"
+         d="m 3810,692.36218 h 150"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path21322-3-7"
-         d="m 3810,752.36218 150,0"
+         d="m 3810,752.36218 h 150"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
@@ -2167,11 +2170,11 @@
     </g>
     <g
        id="g7814"
-       transform="translate(900,-270)">
+       transform="translate(900,-272.3622)">
       <path
          inkscape:connector-curvature="0"
          id="path21162"
-         d="m 2670,572.36218 240,0 0,300.00002 -240,0"
+         d="m 2670,572.36218 h 240 V 872.3622 h -240"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
@@ -2208,18 +2211,18 @@
       <path
          inkscape:connector-curvature="0"
          id="path21318"
-         d="m 2580,632.36218 -240,0"
+         d="M 2580,632.36218 H 2340"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path21320"
-         d="m 2580,812.3622 -240,0"
+         d="M 2580,812.3622 H 2340"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path21322"
-         d="m 2910,722.36218 150,0"
+         d="m 2910,722.36218 h 150"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
@@ -2240,11 +2243,11 @@
     </g>
     <g
        id="g5481"
-       transform="translate(1860,-660)">
+       transform="translate(1860,-662.36218)">
       <path
          inkscape:connector-curvature="0"
          id="path21162-7"
-         d="m 2610,542.36218 240,0 0,300 -240,0"
+         d="m 2610,542.36218 h 240 v 300 h -240"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
@@ -2282,18 +2285,18 @@
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path21322-5"
-         d="m 2850,632.36218 150,0"
+         d="m 2850,632.36218 h 150"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path21322-5-9"
-         d="m 2850,752.36218 150,0"
+         d="m 2850,752.36218 h 150"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path21548"
-         d="m 2400,692.36218 -120,0"
+         d="M 2400,692.36218 H 2280"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
@@ -2314,7 +2317,7 @@
     </g>
     <g
        id="g5496"
-       transform="translate(960,-1020)">
+       transform="translate(960,-1022.3622)">
       <g
          transform="translate(1200,180)"
          id="g23803">
@@ -2326,7 +2329,7 @@
              id="g21178-4">
             <path
                style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               d="m 1560,302.36218 240,0 0,300 -240,0"
+               d="m 1560,302.36218 h 240 v 300 h -240"
                id="path21162-6"
                inkscape:connector-curvature="0" />
             <path
@@ -2365,13 +2368,13 @@
           <path
              inkscape:connector-curvature="0"
              id="path21263"
-             d="m 1200,632.36218 -120,0"
+             d="M 1200,632.36218 H 1080"
              style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <path
              sodipodi:nodetypes="cc"
              inkscape:connector-curvature="0"
              id="path21265"
-             d="m 1650,632.36218 150,0"
+             d="m 1650,632.36218 h 150"
              style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         </g>
         <path
@@ -2405,7 +2408,7 @@
          style="font-size:72px;line-height:1.25"> </tspan></text>
     <g
        id="g22985"
-       transform="translate(-3060,899.99998)">
+       transform="translate(-3060,897.6378)">
       <g
          transform="translate(-60,1620)"
          id="g21772">
@@ -2422,19 +2425,19 @@
              sodipodi:nodetypes="cc"
              inkscape:connector-curvature="0"
              id="path21701"
-             d="m -510,-2727.6378 90,0"
+             d="m -510,-2727.6378 h 90"
              style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <path
              sodipodi:nodetypes="cc"
              inkscape:connector-curvature="0"
              id="path21703"
-             d="m -750,-2787.6378 -90,0"
+             d="m -750,-2787.6378 h -90"
              style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <path
              sodipodi:nodetypes="cc"
              inkscape:connector-curvature="0"
              id="path21705"
-             d="m -750,-2667.6378 -90,0"
+             d="m -750,-2667.6378 h -90"
              style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
              id="text21711"
@@ -2452,7 +2455,7 @@
     </g>
     <g
        id="g22995"
-       transform="translate(-3060,899.99998)">
+       transform="translate(-3060,897.6378)">
       <g
          transform="translate(-90,1575)"
          id="g21756">
@@ -2469,19 +2472,19 @@
              sodipodi:nodetypes="cc"
              inkscape:connector-curvature="0"
              id="path21701-7"
-             d="m -480,-2382.6378 90,0"
+             d="m -480,-2382.6378 h 90"
              style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <path
              sodipodi:nodetypes="cc"
              inkscape:connector-curvature="0"
              id="path21703-0"
-             d="m -720,-2442.6378 -90,0"
+             d="m -720,-2442.6378 h -90"
              style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <path
              sodipodi:nodetypes="cc"
              inkscape:connector-curvature="0"
              id="path21705-1"
-             d="m -720,-2322.6378 -90,0"
+             d="m -720,-2322.6378 h -90"
              style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <text
              transform="scale(1.0497576,0.95260087)"
@@ -2490,7 +2493,7 @@
              x="-634.69385"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:FreeMono;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              xml:space="preserve"><tspan
-               style="font-weight:normal;font-size:215.39909363px;line-height:1.25;-inkscape-font-specification:FreeMono;stroke:#000000;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               style="font-weight:normal;font-size:215.399px;line-height:1.25;-inkscape-font-specification:FreeMono;stroke:#000000;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                y="-2448.4641"
                x="-634.69385"
                id="tspan21713-0"
@@ -2500,7 +2503,7 @@
     </g>
     <g
        id="g22977"
-       transform="translate(-3060,599.99998)">
+       transform="translate(-3060,597.6378)">
       <rect
          y="-1227.6377"
          x="-810"
@@ -2512,19 +2515,19 @@
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path21701-6"
-         d="m -570,-1107.6378 90,0"
+         d="m -570,-1107.6378 h 90"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path21703-3"
-         d="m -810,-1167.6378 -90,0"
+         d="m -810,-1167.6378 h -90"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path21705-9"
-         d="m -810,-1047.6378 -90,0"
+         d="m -810,-1047.6378 h -90"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          id="text21711-6"
@@ -2540,7 +2543,7 @@
     </g>
     <g
        id="g23145"
-       transform="translate(-2970,899.99998)">
+       transform="translate(-2970,897.6378)">
       <rect
          y="-1527.6378"
          x="-300"
@@ -2552,13 +2555,13 @@
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path21703-3-2"
-         d="m -300,-1467.6378 -90,0"
+         d="m -300,-1467.6378 h -90"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path21705-9-6"
-         d="m -300,-1347.6378 -90,0"
+         d="m -300,-1347.6378 h -90"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          id="text21711-6-5"
@@ -2575,19 +2578,19 @@
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path21701-6-4"
-         d="m -15,-1407.6378 45,0"
+         d="M -15,-1407.6378 H 30"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <circle
          transform="matrix(2.2617586,0,0,2.2617586,-150.70552,5626.7429)"
          id="path21965"
-         style="fill:none;stroke:#000000;stroke-width:6.6320076;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="fill:none;stroke:#000000;stroke-width:6.63201;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          cx="52.5"
          cy="-3110.1377"
          r="7.5" />
     </g>
     <g
        id="g23136"
-       transform="translate(-2970,899.99988)">
+       transform="translate(-2970,897.6377)">
       <rect
          y="-1227.6376"
          x="-300"
@@ -2599,13 +2602,13 @@
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path21703-2"
-         d="m -300,-1167.6377 -90,0"
+         d="m -300,-1167.6377 h -90"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path21705-8"
-         d="m -300,-1047.6377 -90,0"
+         d="m -300,-1047.6377 h -90"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          id="text21711-3"
@@ -2622,19 +2625,19 @@
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path21701-6-4-2"
-         d="m -15,-1107.6378 45,0"
+         d="M -15,-1107.6378 H 30"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <circle
          transform="matrix(2.2617586,0,0,2.2617586,-150.70552,5926.7429)"
          id="path21965-4"
-         style="fill:none;stroke:#000000;stroke-width:6.6320076;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="fill:none;stroke:#000000;stroke-width:6.63201;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          cx="52.5"
          cy="-3110.1377"
          r="7.5" />
     </g>
     <g
        id="g23127"
-       transform="translate(-2970,899.9998)">
+       transform="translate(-2970,897.63762)">
       <rect
          y="-927.63745"
          x="-300"
@@ -2646,13 +2649,13 @@
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path21703-0-0"
-         d="m -300,-867.63762 -90,0"
+         d="m -300,-867.63762 h -90"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path21705-1-4"
-         d="m -300,-747.63762 -90,0"
+         d="m -300,-747.63762 h -90"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          transform="scale(1.0497576,0.95260087)"
@@ -2661,7 +2664,7 @@
          x="-234.60149"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:FreeMono;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-weight:normal;font-size:215.39909363px;line-height:1.25;-inkscape-font-specification:FreeMono;stroke:#000000;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           style="font-weight:normal;font-size:215.399px;line-height:1.25;-inkscape-font-specification:FreeMono;stroke:#000000;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            y="-795.0957"
            x="-234.60149"
            id="tspan21713-0-3"
@@ -2670,39 +2673,39 @@
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path21701-6-4-0"
-         d="m -15,-807.63772 45,0"
+         d="M -15,-807.63772 H 30"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <circle
          transform="matrix(2.2617586,0,0,2.2617586,-150.70552,6226.743)"
          id="path21965-5"
-         style="fill:none;stroke:#000000;stroke-width:6.6320076;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="fill:none;stroke:#000000;stroke-width:6.63201;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          cx="52.5"
          cy="-3110.1377"
          r="7.5" />
     </g>
     <g
        id="g24086"
-       transform="translate(1590,-1260)">
+       transform="translate(1590,-1262.3622)">
       <g
          id="g23743">
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 2070,-357.63782 0,300.00001 270,-150.00001 z"
+           d="m 2070,-357.63782 v 300.00001 l 270,-150.00001 z"
            id="path22042"
            inkscape:connector-curvature="0" />
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 2070,-267.63782 -120,0"
+           d="M 2070,-267.63782 H 1950"
            id="path22044"
            inkscape:connector-curvature="0" />
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 2070,-147.63782 -120,0"
+           d="M 2070,-147.63782 H 1950"
            id="path22046"
            inkscape:connector-curvature="0" />
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 2460,-207.63782 -120,0"
+           d="M 2460,-207.63782 H 2340"
            id="path22044-0"
            inkscape:connector-curvature="0" />
         <text
@@ -2730,7 +2733,7 @@
       </g>
     </g>
     <g
-       transform="translate(-4110,2460)"
+       transform="translate(-4110,2457.6378)"
        id="g22931">
       <rect
          y="-1587.6377"
@@ -2743,25 +2746,25 @@
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path21701-6-7"
-         d="m 480,-1527.6378 90,0"
+         d="m 480,-1527.6378 h 90"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path21703-3-7"
-         d="m 240,-1527.6378 -90,0"
+         d="M 240,-1527.6378 H 150"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path21705-9-1"
-         d="m 240,-1407.6378 -90,0"
+         d="M 240,-1407.6378 H 150"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path21701-6-7-3"
-         d="m 480,-1407.6378 90,0"
+         d="m 480,-1407.6378 h 90"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          id="text22144"
@@ -2810,11 +2813,11 @@
       <path
          inkscape:connector-curvature="0"
          id="path22177"
-         d="m 420.40432,-1437.8397 28.23611,0"
+         d="m 420.40432,-1437.8397 h 28.23611"
          style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       transform="translate(-4110,2430)"
+       transform="translate(-4110,2427.6378)"
        id="g22947">
       <rect
          y="-1257.6377"
@@ -2827,25 +2830,25 @@
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path21701-6-7-4"
-         d="m 480,-1197.6378 90,0"
+         d="m 480,-1197.6378 h 90"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path21703-3-7-1"
-         d="m 240,-1197.6378 -90,0"
+         d="M 240,-1197.6378 H 150"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path21705-9-1-9"
-         d="m 240,-1077.6378 -90,0"
+         d="M 240,-1077.6378 H 150"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path21701-6-7-3-2"
-         d="m 480,-1077.6378 90,0"
+         d="m 480,-1077.6378 h 90"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          id="text22144-6"
@@ -2883,7 +2886,7 @@
       <path
          inkscape:connector-curvature="0"
          id="path22177-0"
-         d="m 420.40432,-1107.8397 28.23611,0"
+         d="m 420.40432,-1107.8397 h 28.23611"
          style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
@@ -2892,7 +2895,7 @@
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       transform="translate(-3510,1830)"
+       transform="translate(-3510,1827.6378)"
        id="g22962">
       <rect
          y="-957.6377"
@@ -2905,25 +2908,25 @@
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path21701-6-7-4-2"
-         d="m 480,-897.63782 90,0"
+         d="m 480,-897.63782 h 90"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path21703-3-7-1-4"
-         d="m 240,-897.63782 -90,0"
+         d="M 240,-897.63782 H 150"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path21705-9-1-9-1"
-         d="m 240,-777.63782 -90,0"
+         d="M 240,-777.63782 H 150"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path21701-6-7-3-2-9"
-         d="m 480,-777.63782 90,0"
+         d="m 480,-777.63782 h 90"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          id="text22144-6-4"
@@ -2961,7 +2964,7 @@
       <path
          inkscape:connector-curvature="0"
          id="path22177-0-1"
-         d="m 420.40432,-807.8397 28.23611,0"
+         d="m 420.40432,-807.8397 h 28.23611"
          style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
@@ -2970,7 +2973,7 @@
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       transform="translate(-4020,1799.9999)"
+       transform="translate(-4020,1797.6377)"
        id="g22913">
       <rect
          y="-627.63757"
@@ -2983,25 +2986,25 @@
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path21701-6-7-4-2-3"
-         d="m 990,-567.6377 90,0"
+         d="m 990,-567.6377 h 90"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path21703-3-7-1-4-7"
-         d="m 750,-567.6377 -90,0"
+         d="M 750,-567.6377 H 660"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path21705-9-1-9-1-5"
-         d="m 750,-507.6377 -90,0"
+         d="M 750,-507.6377 H 660"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path21701-6-7-3-2-9-5"
-         d="m 990,-447.6377 90,0"
+         d="m 990,-447.6377 h 90"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          id="text22144-6-4-1"
@@ -3039,7 +3042,7 @@
       <path
          inkscape:connector-curvature="0"
          id="path22177-0-1-4"
-         d="m 930.40432,-477.83958 28.23611,0"
+         d="m 930.40432,-477.83958 h 28.23611"
          style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
@@ -3050,7 +3053,7 @@
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path21703-3-7-1-4-7-1"
-         d="m 750,-447.6377 -90,0"
+         d="M 750,-447.6377 H 660"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          id="text22144-6-4-1-9"
@@ -3066,10 +3069,10 @@
     </g>
     <g
        id="g23173"
-       transform="translate(-3060,390.00008)">
+       transform="translate(-3060,387.6379)">
       <path
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m -900,-1917.6379 90,0"
+         d="m -900,-1917.6379 h 90"
          id="path22470"
          inkscape:connector-curvature="0" />
       <rect
@@ -3081,7 +3084,7 @@
          y="-2007.6379" />
       <path
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m -630,-1917.6379 90,0"
+         d="m -630,-1917.6379 h 90"
          id="path22470-0"
          inkscape:connector-curvature="0" />
       <text
@@ -3098,10 +3101,10 @@
     </g>
     <g
        id="g23180"
-       transform="translate(-3060,390.00008)">
+       transform="translate(-3060,387.6379)">
       <path
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m -900,-1677.6379 90,0"
+         d="m -900,-1677.6379 h 90"
          id="path22470-08"
          inkscape:connector-curvature="0" />
       <rect
@@ -3126,26 +3129,26 @@
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path21701-6-4-5"
-         d="m -585,-1677.6379 45,0"
+         d="m -585,-1677.6379 h 45"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <circle
          transform="matrix(2.2617586,0,0,2.2617586,-720.70552,5356.7429)"
          id="path21965-0"
-         style="fill:none;stroke:#000000;stroke-width:6.6320076;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="fill:none;stroke:#000000;stroke-width:6.63201;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          cx="52.5"
          cy="-3110.1377"
          r="7.5" />
     </g>
     <g
        id="g23154"
-       transform="translate(-3000,390.00012)">
+       transform="translate(-3000,387.63794)">
       <g
          id="g22896"
          transform="translate(-1590,-720.00024)">
         <path
            inkscape:connector-curvature="0"
            id="path22470-08-5"
-           d="m 1170,-957.6377 90,0"
+           d="m 1170,-957.6377 h 90"
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <rect
            y="-1047.6377"
@@ -3156,12 +3159,12 @@
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 1485,-957.6377 45,0"
+           d="m 1485,-957.6377 h 45"
            id="path21701-6-4-5-4"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cc" />
         <circle
-           style="fill:none;stroke:#000000;stroke-width:6.6320076;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           style="fill:none;stroke:#000000;stroke-width:6.63201;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="path21965-0-8"
            transform="matrix(2.2617586,0,0,2.2617586,1349.2945,6076.7431)"
            cx="52.5"
@@ -3171,19 +3174,19 @@
            sodipodi:nodetypes="cccc"
            inkscape:connector-curvature="0"
            id="path22848"
-           d="m 1305,-912.6377 60,0 0,-90 30,0"
+           d="m 1305,-912.6377 h 60 v -90 h 30"
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <path
            inkscape:connector-curvature="0"
            id="path22850"
-           d="m 1335,-1002.6377 0,90"
+           d="m 1335,-1002.6377 v 90"
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <path
            sodipodi:nodetypes="cc"
            transform="translate(0,300.00012)"
            inkscape:connector-curvature="0"
            id="path22852"
-           d="m 1335,-1302.6378 45,0"
+           d="m 1335,-1302.6378 h 45"
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       </g>
     </g>
@@ -3192,11 +3195,11 @@
        transform="translate(-3000,390.00012)">
       <g
          id="g22905"
-         transform="translate(-1590,-720.00024)">
+         transform="translate(-1590,-722.36242)">
         <path
            inkscape:connector-curvature="0"
            id="path22470-05"
-           d="m 1170,-1197.6377 90,0"
+           d="m 1170,-1197.6377 h 90"
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <rect
            y="-1287.6377"
@@ -3208,30 +3211,30 @@
         <path
            inkscape:connector-curvature="0"
            id="path22470-0-1"
-           d="m 1440,-1197.6377 90,0"
+           d="m 1440,-1197.6377 h 90"
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <path
            sodipodi:nodetypes="cccc"
            inkscape:connector-curvature="0"
            id="path22848-4"
-           d="m 1305,-1152.6377 60,0 0,-90 30,0"
+           d="m 1305,-1152.6377 h 60 v -90 h 30"
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <path
            inkscape:connector-curvature="0"
            id="path22850-8"
-           d="m 1335,-1242.6377 0,90"
+           d="m 1335,-1242.6377 v 90"
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <path
            sodipodi:nodetypes="cc"
            inkscape:connector-curvature="0"
            id="path22852-8"
-           d="m 1335,-1242.6377 45,0"
+           d="m 1335,-1242.6377 h 45"
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       </g>
     </g>
     <g
        id="g23273"
-       transform="translate(2370,-2400)">
+       transform="translate(2370,-2402.3622)">
       <path
          sodipodi:open="true"
          sodipodi:end="6.2610788"
@@ -3243,26 +3246,27 @@
          sodipodi:cx="-690"
          id="path23195"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         sodipodi:type="arc" />
+         sodipodi:type="arc"
+         sodipodi:arc-type="arc" />
       <path
          inkscape:connector-curvature="0"
          id="path23215"
-         d="m -780,902.36218 180,0"
+         d="m -780,902.36218 h 180"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path23217"
-         d="m -690,752.36218 0,60"
+         d="m -690,752.36218 v 60"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path23219"
-         d="m -690,992.36218 0,60.00002"
+         d="m -690,992.36218 v 60.00002"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
        id="g23269"
-       transform="translate(2370,-2400)">
+       transform="translate(2370,-2402.3622)">
       <path
          sodipodi:open="true"
          sodipodi:end="6.2610788"
@@ -3275,16 +3279,17 @@
          id="path23195-1"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          sodipodi:type="arc"
-         transform="translate(300,0)" />
+         transform="translate(300)"
+         sodipodi:arc-type="arc" />
       <path
          inkscape:connector-curvature="0"
          id="path23221"
-         d="m -390,1052.3622 0,-300.00002"
+         d="M -390,1052.3622 V 752.36218"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
        id="g7776"
-       transform="translate(2460,2.6171874e-6)">
+       transform="translate(2460,-2.36218)">
       <g
          id="g7770">
         <g
@@ -3295,12 +3300,12 @@
             <path
                sodipodi:nodetypes="cc"
                style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               d="m -195,992.36218 90,0"
+               d="m -195,992.36218 h 90"
                id="path23223"
                inkscape:connector-curvature="0" />
             <path
                style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               d="m -150,992.36218 0,-90"
+               d="m -150,992.36218 v -90"
                id="path23225"
                inkscape:connector-curvature="0"
                sodipodi:nodetypes="cc" />
@@ -3310,18 +3315,18 @@
     </g>
     <g
        id="g23261"
-       transform="translate(2070,-299.99999)">
+       transform="translate(2070,-302.36218)">
       <g
          id="g23227-4"
          transform="translate(0,150)">
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m -210,992.36218 120,0"
+           d="M -210,992.36218 H -90"
            id="path23223-4"
            inkscape:connector-curvature="0" />
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m -150,992.36218 0,-90"
+           d="m -150,992.36218 v -90"
            id="path23225-2"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cc" />
@@ -3329,26 +3334,26 @@
       <path
          inkscape:connector-curvature="0"
          id="path23255"
-         d="m -195,1172.3622 90,0"
+         d="m -195,1172.3622 h 90"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path23257"
-         d="m -180,1202.3622 60,0"
+         d="m -180,1202.3622 h 60"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path23259"
-         d="m -165,1232.3622 30,0"
+         d="m -165,1232.3622 h 30"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
        id="g23677"
-       transform="translate(1830,-360)">
+       transform="translate(1830,-362.36218)">
       <path
          inkscape:connector-curvature="0"
          id="path23279"
-         d="m -90,932.36218 0,-120"
+         d="m -90,932.36218 v -120"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#TriangleOutM)" />
       <text
          id="text23673"
@@ -3364,29 +3369,29 @@
     </g>
     <g
        id="g23734"
-       transform="translate(3150,-2130)">
+       transform="translate(3150,-2132.3622)">
       <g
          id="g23724">
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m -915,632.36218 90,0"
+           d="m -915,632.36218 h 90"
            id="path14716-8-5"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cc" />
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m -960,602.36218 180,0"
+           d="m -960,602.36218 h 180"
            id="path14718-1-5"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cc" />
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m -870.00002,632.36218 0,60"
+           d="m -870.00002,632.36218 v 60"
            id="path14707-1-9-0"
            inkscape:connector-curvature="0" />
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m -870.00002,542.36218 0,60"
+           d="m -870.00002,542.36218 v 60"
            id="path14707-0-9-3"
            inkscape:connector-curvature="0" />
       </g>
@@ -3404,26 +3409,26 @@
     </g>
     <g
        id="g24073"
-       transform="translate(1590,-1200)">
+       transform="translate(1590,-1202.3622)">
       <path
          inkscape:connector-curvature="0"
          id="path22042-9"
-         d="m 2070,62.36218 0,300.00001 270,-150.00001 z"
+         d="M 2070,62.36218 V 362.36219 L 2340,212.36218 Z"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path22044-6"
-         d="m 2070,152.36218 -120,0"
+         d="M 2070,152.36218 H 1950"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path22046-4"
-         d="m 2070,272.36218 -120,0"
+         d="M 2070,272.36218 H 1950"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path22044-0-2"
-         d="m 2460,212.36218 -120,0"
+         d="M 2460,212.36218 H 2340"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          id="text22066-7"
@@ -3450,7 +3455,7 @@
       <path
          inkscape:connector-curvature="0"
          id="path23861"
-         d="M 2190,127.62786 2190,2.3621826"
+         d="M 2190,127.62786 V 2.3621826"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          id="text23863"
@@ -3466,27 +3471,27 @@
     </g>
     <g
        id="g5321"
-       transform="translate(960,-720)">
+       transform="translate(960,-722.36218)">
       <g
          id="g5305">
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 3360,-417.63782 0,300.00001 270,-150.00001 z"
+           d="m 3360,-417.63782 v 300.00001 l 270,-150.00001 z"
            id="path22042-9-4"
            inkscape:connector-curvature="0" />
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 3360,-327.63782 -120,0"
+           d="M 3360,-327.63782 H 3240"
            id="path22044-6-4"
            inkscape:connector-curvature="0" />
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 3360,-207.63782 -120,0"
+           d="M 3360,-207.63782 H 3240"
            id="path22046-4-8"
            inkscape:connector-curvature="0" />
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 3750,-267.63782 -120,0"
+           d="M 3750,-267.63782 H 3630"
            id="path22044-0-2-6"
            inkscape:connector-curvature="0" />
         <text
@@ -3514,7 +3519,7 @@
         <path
            sodipodi:nodetypes="cc"
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 3480,-352.37214 0,-95.26568"
+           d="m 3480,-352.37214 v -95.26568"
            id="path23861-7"
            inkscape:connector-curvature="0" />
         <text
@@ -3531,7 +3536,7 @@
         <path
            sodipodi:nodetypes="cc"
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 3480,-87.637817 0,-95.265683"
+           d="M 3480,-87.637817 V -182.9035"
            id="path23861-7-1"
            inkscape:connector-curvature="0" />
         <text
@@ -3550,11 +3555,11 @@
     </g>
     <g
        id="g24109"
-       transform="translate(3480,1530)">
+       transform="translate(3480,1527.6378)">
       <path
          inkscape:connector-curvature="0"
          id="path24103"
-         d="m -60,482.36218 0,-90 -60,-90"
+         d="m -60,482.36218 v -90 l -60,-90"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
@@ -3564,7 +3569,7 @@
       <path
          inkscape:connector-curvature="0"
          id="path24107"
-         d="m -60,392.36218 0,-90"
+         d="m -60,392.36218 v -90"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <circle
@@ -3572,85 +3577,85 @@
        style="fill:#000000;stroke:none"
        inkscape:transform-center-y="-42.499999"
        cx="-3360"
-       cy="1592.3622"
+       cy="1590"
        r="17.5" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:cmr10;-inkscape-font-specification:cmr10;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="-3900"
-       y="1592.3622"
+       y="1590"
        id="text5288"><tspan
          sodipodi:role="line"
          id="tspan5290"
          x="-3900"
-         y="1592.3622"
+         y="1590"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:56px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold'">Junctions: 35px</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:cmr10;-inkscape-font-specification:cmr10;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="-4200"
-       y="-1767.6378"
+       y="-1770"
        id="text5288-9"><tspan
          sodipodi:role="line"
          id="tspan5290-1"
          x="-4200"
-         y="-1767.6378"
+         y="-1770"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:180px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold'">Digital Buffers</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:cmr10;-inkscape-font-specification:cmr10;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="-4020"
-       y="-747.63782"
+       y="-750"
        id="text5288-9-9"><tspan
          sodipodi:role="line"
          id="tspan5290-1-8"
          x="-4020"
-         y="-747.63782"
+         y="-750"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:180px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold'">Logic Gates</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:cmr10;-inkscape-font-specification:cmr10;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="-3960"
-       y="752.36218"
+       y="750"
        id="text5288-9-8"><tspan
          sodipodi:role="line"
          id="tspan5290-1-9"
          x="-3960"
-         y="752.36218"
+         y="750"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:180px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold'">Flip Flops</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:cmr10;-inkscape-font-specification:cmr10;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="3060"
-       y="1052.3622"
+       y="1050"
        id="text5288-9-8-3"><tspan
          sodipodi:role="line"
          id="tspan5290-1-9-6"
          x="3060"
-         y="1052.3622"
+         y="1050"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:180px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold'">Transmission Lines</tspan></text>
     <g
        id="g5427"
-       transform="translate(300,-300)">
+       transform="translate(300,-302.3622)">
       <path
          inkscape:connector-curvature="0"
          id="path22042-9-4-6"
-         d="m 4020,-1317.6378 0,300 270,-150 z"
+         d="m 4020,-1317.6378 v 300 l 270,-150 z"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path22044-6-4-3"
-         d="m 4020,-1227.6378 -120,0"
+         d="M 4020,-1227.6378 H 3900"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path22046-4-8-4"
-         d="m 4020,-1107.6378 -120,0"
+         d="M 4020,-1107.6378 H 3900"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path22044-0-2-6-8"
-         d="m 4410,-1167.6378 -120,0"
+         d="M 4410,-1167.6378 H 4290"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          id="text22066-7-0-1"
@@ -3677,13 +3682,13 @@
       <path
          inkscape:connector-curvature="0"
          id="path23861-7-7"
-         d="m 4140,-1252.3721 0,-95.2657"
+         d="m 4140,-1252.3721 v -95.2657"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          sodipodi:nodetypes="cc" />
       <path
          inkscape:connector-curvature="0"
          id="path23861-7-1-9"
-         d="m 4140,-987.63782 0,-95.26568"
+         d="m 4140,-987.63782 v -95.26568"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          sodipodi:nodetypes="cc" />
     </g>
@@ -3691,38 +3696,38 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:cmr10;-inkscape-font-specification:cmr10;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="2940"
-       y="-1767.6378"
+       y="-1770"
        id="text5288-9-8-3-4"><tspan
          sodipodi:role="line"
          id="tspan5290-1-9-6-2"
          x="2940"
-         y="-1767.6378"
+         y="-1770"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:180px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold'">Operational Amplifiers</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:cmr10;-inkscape-font-specification:cmr10;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="3240"
-       y="-327.63782"
+       y="-330"
        id="text5288-9-8-3-4-8"><tspan
          sodipodi:role="line"
          id="tspan5290-1-9-6-2-1"
          x="3240"
-         y="-327.63782"
+         y="-330"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:180px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold'">Data Converters</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:cmr10;-inkscape-font-specification:cmr10;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="-2160"
-       y="-1767.6378"
+       y="-1770"
        id="text5288-9-9-5"><tspan
          sodipodi:role="line"
          id="tspan5290-1-8-5"
          x="-2160"
-         y="-1767.6378"
+         y="-1770"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:180px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold'">Transformers</tspan></text>
     <g
        id="g6036"
-       transform="translate(1740,-839.75732)">
+       transform="translate(1740,-842.1195)">
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
@@ -3750,15 +3755,15 @@
       <path
          inkscape:connector-curvature="0"
          id="path15483-5-6-7-9-1"
-         d="m -1650,752.1195 30,0"
+         d="m -1650,752.1195 h 30"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path15485-21-7-6-4-6"
-         d="m -1890,752.1195 -30,0"
+         d="m -1890,752.1195 h -30"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <circle
-         transform="matrix(0,-1,1,0,0,0)"
+         transform="rotate(-90)"
          style="fill:#000000;stroke:none"
          id="path16702-2-8"
          cx="-692.36218"
@@ -3768,12 +3773,12 @@
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path16808-1"
-         d="m -1890,662.36218 240,0"
+         d="m -1890,662.36218 h 240"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
        id="g6027"
-       transform="translate(1740,-839.7573)">
+       transform="translate(1740,-842.11948)">
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
@@ -3801,15 +3806,15 @@
       <path
          inkscape:connector-curvature="0"
          id="path15483-5-6-7-9-1-0"
-         d="m -1650,992.11948 30,0"
+         d="m -1650,992.11948 h 30"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path15485-21-7-6-4-6-6"
-         d="m -1890,992.11948 -30,0"
+         d="m -1890,992.11948 h -30"
          style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <circle
-         transform="matrix(0,-1,1,0,0,0)"
+         transform="rotate(-90)"
          style="fill:#000000;stroke:none"
          id="path16702-2-8-4"
          cx="-932.36218"
@@ -3820,70 +3825,70 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:cmr10;-inkscape-font-specification:cmr10;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="-300"
-       y="-327.63782"
+       y="-330"
        id="text5288-9-9-5-3"><tspan
          sodipodi:role="line"
          id="tspan5290-1-8-5-3"
          x="-300"
-         y="-327.63782"
+         y="-330"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:180px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold'">Inductors</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:cmr10;-inkscape-font-specification:cmr10;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="-1800"
-       y="-627.63782"
+       y="-630"
        id="text5288-9-9-5-3-2"><tspan
          sodipodi:role="line"
          id="tspan5290-1-8-5-3-3"
          x="-1800"
-         y="-627.63782"
+         y="-630"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:180px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold'">Diodes</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:cmr10;-inkscape-font-specification:cmr10;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="180"
-       y="512.36218"
+       x="179.99998"
+       y="510"
        id="text5288-9-9-5-3-7"><tspan
          sodipodi:role="line"
          id="tspan5290-1-8-5-3-37"
          x="180"
-         y="512.36218"
+         y="510"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:180px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold';text-align:center;text-anchor:middle">Miscellaneous</tspan><tspan
          sodipodi:role="line"
-         x="180"
-         y="737.36218"
+         x="179.99995"
+         y="735"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:180px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold';text-align:center;text-anchor:middle"
          id="tspan6125">Semiconductors</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:cmr10;-inkscape-font-specification:cmr10;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="-1500"
-       y="212.36218"
+       y="210"
        id="text5288-9-9-5-3-2-1"><tspan
          sodipodi:role="line"
          id="tspan5290-1-8-5-3-3-0"
          x="-1500"
-         y="212.36218"
+         y="210"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:180px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold';text-align:center;text-anchor:middle">Bipolar</tspan><tspan
          sodipodi:role="line"
          x="-1500"
-         y="437.36218"
+         y="435"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:180px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold';text-align:center;text-anchor:middle"
          id="tspan6145">Transistors</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:cmr10;-inkscape-font-specification:cmr10;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="-300"
-       y="-1047.6378"
+       y="-1050"
        id="text5288-9-9-5-3-1"><tspan
          sodipodi:role="line"
          x="-300"
-         y="-1047.6378"
+         y="-1050"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:180px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold'"
          id="tspan6165">Capacitor</tspan></text>
     <g
        id="g15424-2"
-       transform="translate(900,-1710)">
+       transform="translate(900,-1712.3622)">
       <g
          id="g7575">
         <g
@@ -3899,25 +3904,25 @@
           <path
              inkscape:connector-curvature="0"
              id="path14707-8-9"
-             d="m -420,242.36218 -60,0"
+             d="m -420,242.36218 h -60"
              style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
           <path
              inkscape:connector-curvature="0"
              id="path14709-8-2"
-             d="m -240,242.36218 60,0"
+             d="m -240,242.36218 h 60"
              style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         </g>
         <g
-           transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,-218.62406,223.11827)"
+           transform="rotate(45,-378.63961,-152.34345)"
            id="g7571">
           <path
              style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="m -150,-87.63782 0,180"
+             d="m -150,-87.63782 v 180"
              id="path7561"
              inkscape:connector-curvature="0" />
           <path
              style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="m -165,-87.63782 30,0"
+             d="m -165,-87.63782 h 30"
              id="path7563"
              inkscape:connector-curvature="0"
              sodipodi:nodetypes="cc" />
@@ -3928,77 +3933,77 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:cmr10;-inkscape-font-specification:cmr10;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="-300"
-       y="-1767.6378"
+       y="-1770"
        id="text5288-9-9-5-3-1-6"><tspan
          sodipodi:role="line"
          x="-300"
-         y="-1767.6378"
+         y="-1770"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:180px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold'"
          id="tspan6165-2">Resistors</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:cmr10;-inkscape-font-specification:cmr10;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="-1500"
-       y="1112.3622"
+       y="1110"
        id="text5288-9-9-5-3-2-1-6"><tspan
          sodipodi:role="line"
          id="tspan5290-1-8-5-3-3-0-4"
          x="-1500"
-         y="1112.3622"
+         y="1110"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:180px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold';text-align:center;text-anchor:middle">Field Effect</tspan><tspan
          sodipodi:role="line"
          x="-1500"
-         y="1337.3622"
+         y="1335"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:180px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold';text-align:center;text-anchor:middle"
          id="tspan6145-0">Transistors</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:cmr10;-inkscape-font-specification:cmr10;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="3360"
-       y="1652.3622"
+       y="1650"
        id="text5288-9-9-5-3-1-0"><tspan
          sodipodi:role="line"
          x="3360"
-         y="1652.3622"
+         y="1650"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:180px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold'"
          id="tspan6165-8">RF Components</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:cmr10;-inkscape-font-specification:cmr10;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="1560"
-       y="-927.63782"
+       y="-930"
        id="text5288-9-9-5-3-1-0-4"><tspan
          sodipodi:role="line"
          x="1560"
-         y="-927.63782"
+         y="-930"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:180px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold'"
          id="tspan6165-8-5">Switches</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:cmr10;-inkscape-font-specification:cmr10;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="1620"
-       y="-1767.6378"
+       y="-1770"
        id="text5288-9-9-5-3-1-6-0"><tspan
          sodipodi:role="line"
          x="1620"
-         y="-1767.6378"
+         y="-1770"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:180px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold'"
          id="tspan6165-2-7">Sources</tspan></text>
     <g
        id="g7751"
-       transform="translate(2460,2.6171874e-6)">
+       transform="translate(2460,-2.36218)">
       <g
          transform="translate(-210,-150)"
          id="g23227-5">
         <path
            sodipodi:nodetypes="cc"
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m -195,992.36218 90,0"
+           d="m -195,992.36218 h 90"
            id="path23223-5"
            inkscape:connector-curvature="0" />
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m -150,992.36218 0,-90"
+           d="m -150,992.36218 v -90"
            id="path23225-7"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cc" />
@@ -4012,18 +4017,18 @@
     </g>
     <g
        id="g7757"
-       transform="translate(2460,2.6171874e-6)">
+       transform="translate(2460,-2.36218)">
       <g
          transform="translate(-30,-150)"
          id="g23227-52">
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m -210,992.36218 120,0"
+           d="M -210,992.36218 H -90"
            id="path23223-6"
            inkscape:connector-curvature="0" />
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m -150,992.36218 0,-90"
+           d="m -150,992.36218 v -90"
            id="path23225-9"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cc" />
@@ -4051,26 +4056,27 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:cmr10;-inkscape-font-specification:cmr10;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="1740"
-       y="1412.3622"
+       y="1410"
        id="text5288-9-9-5-3-79"><tspan
          sodipodi:role="line"
          id="tspan5290-1-8-5-3-1"
          x="1740"
-         y="1412.3622"
+         y="1410"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:180px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold'">Other</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:cmr10;-inkscape-font-specification:cmr10;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="1740"
-       y="272.36218"
+       y="270"
        id="text5288-9-9-5-3-1-0-4-0"><tspan
          sodipodi:role="line"
          x="1740"
-         y="272.36218"
+         y="270"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:180px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold'"
          id="tspan6165-8-5-1">Ports</tspan></text>
     <g
-       id="g3349">
+       id="g3349"
+       transform="translate(0,-2.3622)">
       <g
          id="g3341">
         <path
@@ -4084,7 +4090,8 @@
            d="m 1470,-1497.6378 a 90,90 0 0 1 -89.5026,89.9986 90,90 0 0 1 -90.4919,-89.0038 90,90 0 0 1 88.5024,-90.9824 90,90 0 0 1 91.4701,87.9982"
            sodipodi:start="0"
            sodipodi:end="6.2610788"
-           sodipodi:open="true" />
+           sodipodi:open="true"
+           sodipodi:arc-type="arc" />
         <path
            style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            d="m 1380,-1647.6378 v 60"
@@ -4099,12 +4106,12 @@
       <g
          transform="matrix(1.7785437,0,0,1.7785437,-434.0573,838.0131)"
          id="text3333"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.33333588px;line-height:25px;font-family:'Latin Modern Roman Caps';-inkscape-font-specification:'Latin Modern Roman Caps';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.56225777px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.3333px;line-height:25px;font-family:'Latin Modern Roman Caps';-inkscape-font-specification:'Latin Modern Roman Caps';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.562258px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          aria-label="~">
         <path
            inkscape:connector-curvature="0"
            id="path3335"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'M+ 2c';-inkscape-font-specification:'M+ 2c Bold';stroke-width:0.56225777px"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'M+ 2c';-inkscape-font-specification:'M+ 2c Bold';stroke-width:0.562258px"
            d="m 1009.5573,-1313.4085 q -2.6453,0 -4.7786,1.536 -2.1334,1.4507 -4.7787,5.2053 l -6.48533,-5.8026 q 6.144,-10.4107 16.04263,-10.4107 6.9974,0 12.8854,5.8027 4.0106,4.0106 7.936,4.0106 2.6453,0 4.7786,-1.4506 2.1334,-1.536 4.7787,-5.2907 l 6.4853,5.8027 q -6.144,10.4106 -16.0426,10.4106 -6.9974,0 -12.8854,-5.8026 -4.0106,-4.0107 -7.936,-4.0107 z" />
       </g>
     </g>
